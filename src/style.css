@@ -1,0 +1,27 @@
+header{
+    margin-bottom: 30px;
+    
+}
+.card{
+    margin-bottom: 15px;
+}
+.card-body{
+    background-color: pink;
+    color:black
+}
+
+.input-group{
+    margin-bottom: 5px;
+ }
+.rating{
+    display: inline-flex;
+    margin-top: 10px;
+}
+li{margin-left: 25px;
+   
+}
+.active{
+    background-color: gray;
+    color: pink;
+}
+

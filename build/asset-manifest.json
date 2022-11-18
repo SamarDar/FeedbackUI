@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Feedback/static/css/main.982344fc.css",
+    "main.js": "/Feedback/static/js/main.a8ea76a2.js",
+    "static/media/spinner.gif": "/Feedback/static/media/spinner.a1a996746e5e48352c81.gif",
+    "index.html": "/Feedback/index.html",
+    "main.982344fc.css.map": "/Feedback/static/css/main.982344fc.css.map",
+    "main.a8ea76a2.js.map": "/Feedback/static/js/main.a8ea76a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.982344fc.css",
+    "static/js/main.a8ea76a2.js"
+  ]
+}
